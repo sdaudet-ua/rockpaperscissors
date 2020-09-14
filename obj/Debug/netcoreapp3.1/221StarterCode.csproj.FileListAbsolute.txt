@@ -1,0 +1,13 @@
+C:\source\repos\fall2020-lab3-sdaudet-ua\obj\Debug\netcoreapp3.1\221StarterCode.csprojAssemblyReference.cache
+C:\source\repos\fall2020-lab3-sdaudet-ua\obj\Debug\netcoreapp3.1\221StarterCode.AssemblyInfoInputs.cache
+C:\source\repos\fall2020-lab3-sdaudet-ua\obj\Debug\netcoreapp3.1\221StarterCode.AssemblyInfo.cs
+C:\source\repos\fall2020-lab3-sdaudet-ua\obj\Debug\netcoreapp3.1\221StarterCode.csproj.CoreCompileInputs.cache
+C:\source\repos\fall2020-lab3-sdaudet-ua\bin\Debug\netcoreapp3.1\221StarterCode.exe
+C:\source\repos\fall2020-lab3-sdaudet-ua\bin\Debug\netcoreapp3.1\221StarterCode.deps.json
+C:\source\repos\fall2020-lab3-sdaudet-ua\bin\Debug\netcoreapp3.1\221StarterCode.runtimeconfig.json
+C:\source\repos\fall2020-lab3-sdaudet-ua\bin\Debug\netcoreapp3.1\221StarterCode.runtimeconfig.dev.json
+C:\source\repos\fall2020-lab3-sdaudet-ua\bin\Debug\netcoreapp3.1\221StarterCode.dll
+C:\source\repos\fall2020-lab3-sdaudet-ua\bin\Debug\netcoreapp3.1\221StarterCode.pdb
+C:\source\repos\fall2020-lab3-sdaudet-ua\obj\Debug\netcoreapp3.1\221StarterCode.dll
+C:\source\repos\fall2020-lab3-sdaudet-ua\obj\Debug\netcoreapp3.1\221StarterCode.pdb
+C:\source\repos\fall2020-lab3-sdaudet-ua\obj\Debug\netcoreapp3.1\221StarterCode.genruntimeconfig.cache
